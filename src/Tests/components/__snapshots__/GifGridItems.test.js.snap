@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifItem should display component 1`] = `
+<div
+  className="card animate__animated animate__bounce"
+>
+  <img
+    alt="Un titulo"
+    src="http://localhost/algo.jpg"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
